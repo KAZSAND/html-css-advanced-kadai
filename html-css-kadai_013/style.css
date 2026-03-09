@@ -91,10 +91,10 @@ PC用のスタイル
     display: none;
     z-index: 100;
   }
-  #nav-sp nav ul {
+  #nav-sp ul {
     padding-left: 0;
   }
-  #nav-sp nav li {
+  #nav-sp li {
     list-style: none;
   }
   #close {
@@ -107,11 +107,11 @@ PC用のスタイル
   #logo-sp {
     margin: 80px 0px 30px 20px;
   }
-  #nav-sp nav a {
+  #nav-sp a {
     display: block;
     color: white;
   }
-  #nav-sp nav a:hover {
+  #nav-sp a:hover {
     text-decoration: underline;
   }
   #nav-sp .menu {
